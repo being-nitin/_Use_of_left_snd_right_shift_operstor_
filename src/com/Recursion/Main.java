@@ -12,6 +12,10 @@ public class Main {
         b = sc.nextInt();
         System.out.println(a<<b);
         System.out.println(a>>b);
+/*
+    Left shift operator:
+     left shift operator's work will, to multiply a with 2^b times:
 
+ */
     }
 }
