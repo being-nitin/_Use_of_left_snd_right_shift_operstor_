@@ -15,7 +15,11 @@ public class Main {
 /*
     ---------Left shift operator------
      left shift operator's work will, to multiply a with 2^b times:
+*/
+        /*
+        --------Right shift operator---------
+        Right shift operator will, to divide 'a' with 2^b.
+         */
 
- */
     }
 }
